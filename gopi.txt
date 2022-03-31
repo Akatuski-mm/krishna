@@ -1,0 +1,3 @@
+ echo "hi how are you: "
+ read name
+ echo " the name is: $name
